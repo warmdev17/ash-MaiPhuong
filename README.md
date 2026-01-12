@@ -14,6 +14,8 @@ ash group create IT103A_MaiPhuong
 
 ## Tạo session mới
 
+Cần đứng ở thư mục group ( môn học )
+
 ```
 ash subgroup create <tên session>
 ```
