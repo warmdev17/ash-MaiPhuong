@@ -52,4 +52,5 @@ Ví dụ:
 ash project create -c 5 -p Baitap
 ```
 
+> [!TIP]
 > **_OUTPUT_**: 5 bài tập với tên Baitap1...Baitap5
