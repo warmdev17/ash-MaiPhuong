@@ -54,3 +54,9 @@ ash project create -c 5 -p Baitap
 
 > [!NOTE]
 > **_OUTPUT_**: 5 bài tập với tên Baitap1...Baitap5
+
+## Nộp bài
+
+```
+ash submit
+```
