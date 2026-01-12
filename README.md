@@ -58,5 +58,5 @@ ash project create -c 5 -p Baitap
 ## Nộp bài
 
 ```
-ash submit
+ash submit --all -m "submit"
 ```
